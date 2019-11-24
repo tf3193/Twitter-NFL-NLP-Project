@@ -1,0 +1,33 @@
+ID,CITY,Team,short
+1,Arizona,Cardinals,ARI
+2,Atlanta,Falcons,ATL
+3,Baltimore,Ravens,BAL
+4,Buffalo,Bills,BUF
+5,Carolina,Panthers,CAR
+6,Chicago,Bears,CHI
+7,Cincinnati,Bengals,CIN
+8,Cleveland,Browns,CLE
+9,Dallas,Cowboys,DAL
+10,Denver,Broncos,DEN
+11,Detroit,Lions,DET
+12,Green Bay,Packers,GB
+13,Houston,Texans,HOU
+14,Indianapolis,Colts,IND
+15,Jacksonville,Jaguars,JAX
+16,Kansas City,Chiefs,KC
+17,Miami,Dolphins,MIA
+18,Minnesota,Vikings,MIN
+19,New England,Patriots,NE
+20,New Orleans,Saints,NO
+21,NY,Giants,NYG
+22,NY,Jets,NYJ
+23,Oakland,Raiders,OAK
+24,Philadelphia,Eagles,PHI
+25,Pittsburgh,Steelers,PIT
+26,Los Angeles,Chargers,SD
+27,San Francisco,49ers,SF
+28,Seattle,Seahawks,SEA
+29,Los Angeles,Rams,STL
+30,Tampa Bay,Buccaneers,TB
+31,Tennessee,Titans,TEN
+32,Washington,Redskins,WAS
